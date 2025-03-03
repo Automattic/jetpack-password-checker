@@ -1,5 +1,4 @@
-<?php //phpcs:ignore WordPress.Files.FileName.InvalidClassFileName
-
+<?php
 /**
  * Tests the Password_Checker package.
  *
